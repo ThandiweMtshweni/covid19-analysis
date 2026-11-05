@@ -1,0 +1,97 @@
+
+  .confirmed-button{
+    background-color: rgb(204, 42, 42);
+    color: white;
+    border: none;
+    border-style: solid;
+    border-radius: 12px;
+    cursor: pointer;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-left: 30px;
+    font-weight: bold;
+    font-size: 15px;
+    transition: opacity 0.15s;
+    vertical-align: auto;
+    border-style: solid;
+  }
+  .confirmed-button:hover{
+    background-color: rgb(255, 51, 0);
+  }
+  .deaths-button{
+    background-color: rgb(204, 42, 42);
+    color: white;
+    cursor: pointer;
+    font-weight: bold;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-left: 30px;
+    border-radius: 12px;
+    border: none;
+    transition: opacity 0.15s;
+    vertical-align: auto;
+    border-radius: 12px;
+    border-style: solid;
+  }
+  .recoveries-button{
+    background-color: rgb(204, 42, 42);
+    color: white;
+    cursor: pointer;
+    font-weight: bold;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-left: 30px;
+    border-radius: 12px;
+    border: none;
+    transition: opacity 0.15s;
+    vertical-align: auto;
+    border-radius: 12px;
+    border-style: solid;
+  }
+  .deaths-button:hover{
+    background-color: red;
+  }
+  .recoveries-button:hover{
+    background-color: red;
+  }
+  .h2-heading{
+    background-color: rgb(204, 42, 42);
+    color: white;
+    text-align: center;
+    font-family: Arial;
+    font-size: 50px;
+  }
+  .choice-paragraph{
+    font-family: Arial;
+    font-size: 30px;
+    font-weight:bold;
+    color: white;
+    background-color: rgb(204, 42, 42);
+    text-align:center;
+    line-height: 40px;
+    display:block
+  }
+  .covid-img{
+
+    width:500px;
+    height:200px;
+    object-fit: cover;
+    object-position: center;
+    box-shadow: 3px 3px 5px 6px #ccc;
+  }
+.country_label{
+    color: white;
+    background-color: rgb(204, 42, 42);
+    font-family: Arial;
+    font-size: 20px;
+}
+.options{
+    font-family: Arial;
+    font-size: 20px;
+}
